@@ -1,3 +1,3 @@
 <?php 
-echo "govinda main"
+echo "govinda master"
 ?>
